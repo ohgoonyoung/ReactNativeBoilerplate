@@ -16,7 +16,7 @@
     "@types/react": "^16.9.23",
     "@types/react-native": "^0.61.17",
     "@types/react-test-renderer": "^16.9.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "16.9.0",
     "react-native": "0.61.5",
     "react-native-gesture-handler": "^1.6.0",
